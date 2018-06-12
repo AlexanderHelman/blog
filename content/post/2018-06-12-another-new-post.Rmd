@@ -1,0 +1,18 @@
+---
+title: Another New Post
+author: ~
+date: '2018-06-12'
+slug: another-new-post
+categories: []
+tags: []
+---
+
+Some text.
+
+```{r}
+x <- 3
+```
+
+```{r}
+plot(1:10)
+```
